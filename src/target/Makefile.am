@@ -46,7 +46,8 @@ TARGET_CORE_SRC = \
 	%D%/testee.c \
 	%D%/semihosting_common.c \
 	%D%/smp.c \
-	%D%/rtt.c
+	%D%/rtt.c \
+	%D%/stdbu.c
 
 ARMV4_5_SRC = \
 	%D%/armv4_5.c \
